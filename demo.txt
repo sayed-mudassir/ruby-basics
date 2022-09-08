@@ -1,0 +1,6 @@
+tihs is demo 
+here we are writin an statement
+here we are printing an statement
+	tihs is demo
+	here we are writing an statement using append
+	here we are printing an statement using append

@@ -1,0 +1,5 @@
+{
+  "name": "my_app",
+  "private": true,
+  "dependencies": {"new_key": "value"}
+}
